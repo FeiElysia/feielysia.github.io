@@ -24,7 +24,7 @@ Research
 <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
   <td style="padding:20px;width:25%;vertical-align:middle">
       <div class="one">
-      <img src='images/ViECap.jpg' width="160">
+      <img src='https://github.com/FeiElysia/ViECap/blob/main/demo/experiment1.png' width="400" align = center>
       </div>
       <script type="text/javascript">
       function iadsurvey_start() {
