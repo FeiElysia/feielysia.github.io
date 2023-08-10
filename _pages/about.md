@@ -19,6 +19,42 @@ News
 * [2023/07/14] 1 paper has been accepted by ICCV 2023!
 * [2023/04/07] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
 
+Research
+======
+<tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+  <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+      <img src='images/ViECap.jpg' width="160">
+      </div>
+      <script type="text/javascript">
+      function iadsurvey_start() {
+          document.getElementById('iadsurvey_image').style.opacity = "1";
+      }
+      function imiad_stop() {
+          document.getElementById('iadsurvey_image').style.opacity = "0";
+      }
+      imiad_stop()
+      </script>
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/pdf/2307.16525.pdf">
+      <papertitle>Transferable Decoding with Visual Entities for Zero‑Shot Image Captioning</papertitle>
+      </a>
+      <br>
+      <strong>Junjie Fei*</strong>, Teng Wang*, Jinrui Zhang, Zhenyu He, Chengjie Wang, Feng Zheng
+      <br>
+      <em>ICCV</em>, 2023
+      <br>
+      <a href="https://github.com/FeiElysia/ViECap">code</a>
+      /
+      <a href="https://arxiv.org/pdf/2307.16525.pdf">paper</a>
+      <p></p>
+      <p>
+      Improve the generalization by overcoming the hallucination problem in LLMs-based visual models.
+      </p>
+  </td>
+</tr>
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
