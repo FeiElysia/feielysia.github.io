@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before that, I obtained my BS and MS degrees from Chongqing University (CQU) and Xiamen University (XMU), respectively.
+I am a research assistant at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before that, I obtained my BS and MS degrees from Chongqing University (CQU) and Xiamen University (XMU), respectively. Please refer to my [CV](https://github.com/FeiElysia/feielysia.github.io/blob/main/images/CV.pdf) for more details.
 
-My recent research intersts lie in vision-language multimodal learning and artificial intelligence generated content.
+My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content.
 
-I am currently actively searching for a PhD position, drop me an email if you are interested.
+I am currently actively searching for a <p style="color: red;">PhD position</p>, drop me an email if you are interested.
 
 News
 ======
@@ -45,7 +45,7 @@ Research
         <a href="https://arxiv.org/pdf/2307.16525.pdf">paper</a>
         <p></p>
         <p>
-        Improving the transferability of the zero-shot captioning for out-of-domain images by overcoming the modality bias and object hallucination that occur when adapting pre-trained vision-language models and large language models.
+        Improving the transferability of zero-shot captioning for out-of-domain images by addressing the modality bias and object hallucination that arise when adapting pre-trained vision-language models and large language models.
         </p>
     </td>
   </tr>
@@ -95,7 +95,7 @@ Research
         <a href="https://ieeexplore.ieee.org/document/9896914">paper</a>
         <p></p>
         <p>
-        An efficient and accurate 3-D quantitative hybrid microwave imaging method, which incorporate 3D U-Net to further refine the reconstructed object.
+        An efficient and accurate 3-D quantitative hybrid microwave imaging method, which incorporates 3D U-Net to further refine the reconstructed object.
         </p>
     </td>
   </tr>
@@ -126,13 +126,6 @@ Research
 </tbody></table>
 
 <!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
