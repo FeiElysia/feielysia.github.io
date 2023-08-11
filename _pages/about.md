@@ -28,7 +28,7 @@ Research
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/ViECap.jpg' width="400">
+          <img src='images/ViECap.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
@@ -53,7 +53,7 @@ Research
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/CAT.jpg' width="400">
+          <img src='images/CAT.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
@@ -80,7 +80,7 @@ Research
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/U_Net.jpg' width="400">
+          <img src='images/U_Net.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
@@ -103,7 +103,7 @@ Research
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/ResU_Net.jpg' width="400">
+          <img src='images/ResU_Net.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
