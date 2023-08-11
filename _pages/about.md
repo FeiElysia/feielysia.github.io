@@ -21,41 +21,111 @@ News
 
 Research
 ======
-<tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-  <td style="padding:20px;width:25%;vertical-align:middle">
-      <div class="one">
-      <img src='https://github.com/FeiElysia/ViECap/blob/main/demo/experiment1.png' width="400" align = center>
-      </div>
-      <script type="text/javascript">
-      function iadsurvey_start() {
-          document.getElementById('iadsurvey_image').style.opacity = "1";
-      }
-      function imiad_stop() {
-          document.getElementById('iadsurvey_image').style.opacity = "0";
-      }
-      imiad_stop()
-      </script>
-  </td>
-  <td style="padding:20px;width:75%;vertical-align:middle">
-      <a href="https://arxiv.org/pdf/2307.16525.pdf">
-      <papertitle>Transferable Decoding with Visual Entities for Zero‑Shot Image Captioning</papertitle>
-      </a>
-      <br>
-      <strong>Junjie Fei*</strong>, Teng Wang*, Jinrui Zhang, Zhenyu He, Chengjie Wang, Feng Zheng
-      <br>
-      <em>ICCV</em>, 2023
-      <br>
-      <a href="https://github.com/FeiElysia/ViECap">code</a>
-      /
-      <a href="https://arxiv.org/pdf/2307.16525.pdf">paper</a>
-      <p></p>
-      <p>
-      Improve the generalization by overcoming the hallucination problem in LLMs-based visual models.
-      </p>
-  </td>
-</tr>
+(* equal contribution)
 
-Getting started
+<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/ViECap.jpg' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2307.16525">
+          <papertitle>Transferable Decoding with Visual Entities for Zero‑Shot Image Captioning</papertitle>
+        </a>
+        <br>
+        <strong>Junjie Fei*</strong>, Teng Wang*, Jinrui Zhang, Zhenyu He, Chengjie Wang, Feng Zheng
+        <br>
+        <em>ICCV</em>, 2023
+        <br>
+        <a href="https://github.com/FeiElysia/ViECap">code</a>
+        /
+        <a href="https://arxiv.org/pdf/2307.16525.pdf">paper</a>
+        <p></p>
+        <p>
+        Improving the transferability of the zero-shot captioning for out-of-domain images by overcoming the modality bias and object hallucination that occur when adapting pre-trained vision-language models and large language models.
+        </p>
+    </td>
+  </tr>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/CAT.jpg' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://arxiv.org/abs/2305.02677">
+          <papertitle>Caption Anything: Interactive Image Description with Diverse Multimodal Controls</papertitle>
+        </a>
+        <br>
+        Teng Wang*, Jinrui Zhang*, <strong>Junjie Fei*</strong>, Hao Zheng, Yunlong Tang, Zhe Li, Mingqi Gao, Shanshan Zhao
+        <br>
+        <em>arXiv</em>, 2023
+        <br>
+        <a href="https://github.com/ttengwang/Caption-Anything">code</a>
+        /
+        <a href="https://arxiv.org/pdf/2305.02677.pdf">paper</a>
+        /
+        <a href="https://huggingface.co/spaces/TencentARC/Caption-Anything">demo</a>
+        <p></p>
+        <p>
+        Caption Anything is an interactive image‑to‑text generative tool that can generate diverse descriptions for any user-specified object within an image, providing a variety of language styles and visual controls to cater to diverse user preferences.
+        </p>
+    </td>
+  </tr>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/U_Net.jpg' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://ieeexplore.ieee.org/document/9896914">
+          <papertitle>Hybrid Microwave Imaging of 3-D Objects Using LSM and BIM Aided by a CNN U-Net</papertitle>
+        </a>
+        <br>
+        Feng Han, Miao Zhong, <strong>Junjie Fei</strong>
+        <br>
+        <em>IEEE Transactions on Geoscience and Remote Sensing</em> (2 Year IF: 8.125, ranking: 42/708)
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/9896914">paper</a>
+        <p></p>
+        <p>
+        An efficient and accurate 3-D quantitative hybrid microwave imaging method, which incorporate 3D U-Net to further refine the reconstructed object.
+        </p>
+    </td>
+  </tr>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='https://github.com/FeiElysia/feielysia.github.io/blob/main/images/ResU_Net.jpg' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://ieeexplore.ieee.org/document/9670652">
+          <papertitle>Fast 3-D Electromagnetic Full-Wave Inversion of Dielectric Anisotropic Objects Based on ResU-Net Enhanced by Variational Born Iterative Method</papertitle>
+        </a>
+        <br>
+        <strong>Junjie Fei</strong>, Yanjin Chen, Miao Zhong, Feng Han
+        <br>
+        <em>IEEE Transactions on Antennas and Propagation</em> (2 Year IF: 4.824, ranking: 71/708)
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/9670652">paper</a>
+        <p></p>
+        <p>
+        ResU-Net is proposed to directly reconstruct 3-D anisotropic objects from the received electromagnetic field data.
+        </p>
+    </td>
+  </tr>
+
+</tbody></table>
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -86,4 +156,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
