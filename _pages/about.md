@@ -12,7 +12,7 @@ I am a research assistant at the Department of Computer Science and Engineering,
 
 My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content.
 
-I am currently actively searching for a <p style="color: red;">PhD position</p>, drop me an email if you are interested.
+I am currently actively searching for a ***PhD position***, drop me an email if you are interested.
 
 News
 ======
