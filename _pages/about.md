@@ -26,12 +26,12 @@ Research
 <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/ViECap.jpg' width="400">
         </div>
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://arxiv.org/abs/2307.16525">
           <papertitle>Transferable Decoding with Visual Entities for Zero‑Shot Image Captioning</papertitle>
         </a>
@@ -51,12 +51,12 @@ Research
   </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/CAT.jpg' width="400">
         </div>
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://arxiv.org/abs/2305.02677">
           <papertitle>Caption Anything: Interactive Image Description with Diverse Multimodal Controls</papertitle>
         </a>
@@ -78,12 +78,12 @@ Research
   </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/U_Net.jpg' width="400">
         </div>
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://ieeexplore.ieee.org/document/9896914">
           <papertitle>Hybrid Microwave Imaging of 3-D Objects Using LSM and BIM Aided by a CNN U-Net</papertitle>
         </a>
@@ -101,12 +101,12 @@ Research
   </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/ResU_Net.jpg' width="400">
         </div>
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://ieeexplore.ieee.org/document/9670652">
           <papertitle>Fast 3-D Electromagnetic Full-Wave Inversion of Dielectric Anisotropic Objects Based on ResU-Net Enhanced by Variational Born Iterative Method</papertitle>
         </a>
