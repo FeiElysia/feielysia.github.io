@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before that, I obtained my BS and MS degrees from Chongqing University (CQU) and Xiamen University (XMU), respectively. Please refer to my [CV](https://github.com/FeiElysia/feielysia.github.io/blob/main/images/CV.pdf) for more details.
+I am a research assistant at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before that, I obtained my BS and MS degrees from Chongqing University (CQU) and Xiamen University (XMU), respectively. Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
 
 My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content.
 
