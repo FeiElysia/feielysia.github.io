@@ -32,7 +32,7 @@ Research
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
-        <a href="https://arxiv.org/abs/2307.16525">
+        <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Fei_Transferable_Decoding_with_Visual_Entities_for_Zero-Shot_Image_Captioning_ICCV_2023_paper.html">
           <papertitle>Transferable Decoding with Visual Entities for Zero‑Shot Image Captioning</papertitle>
         </a>
         <br>
@@ -42,7 +42,7 @@ Research
         <br>
         <a href="https://github.com/FeiElysia/ViECap">code</a>
         /
-        <a href="https://arxiv.org/pdf/2307.16525.pdf">paper</a>
+        <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Fei_Transferable_Decoding_with_Visual_Entities_for_Zero-Shot_Image_Captioning_ICCV_2023_paper.pdf">paper</a>
         <p></p>
         <p>
         Improving the transferability of zero-shot captioning for out-of-domain images by addressing the modality bias and object hallucination that arise when adapting pre-trained vision-language models and large language models.
