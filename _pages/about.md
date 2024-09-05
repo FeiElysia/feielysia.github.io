@@ -151,10 +151,10 @@ Research
 
 </tbody></table>
 
-Academic Services
+<!-- Academic Services
 ======
 Conference reviewer for NeurIPS, ICLR
-Journal reviewer for IEEE TMM, Neurocomputing
+Journal reviewer for IEEE TMM, Neurocomputing -->
 
 <!-- Getting started
 
