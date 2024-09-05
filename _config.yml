@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junjie Fei / Research Assistant"
+title                    : "Junjie Fei / Ph.D."
 title_separator          : "-"
 name                     : &name "Junjie Fei"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Junjie Fei"
   avatar           : "profile.png"
   bio              : "Hi, this is my personal homepage!"
-  location         : "Shenzhen, China"
+  location         : "Jiddah, Saudi Arabia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=idH7-o0AAAAJ"

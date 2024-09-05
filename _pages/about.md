@@ -8,20 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before that, I obtained my BS and MS degrees from Chongqing University (CQU) and Xiamen University (XMU), respectively. Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
+I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before that, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
 
-My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content.
-
-I am currently actively searching for a ***PhD position***, drop me an email if you are interested.
+My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content. Feel free to drop me an email at junjiefei@outlook.com / junjie.fei@kaust.edu.sa if you are interested in collaborating.
 
 News
 ======
-* [2023/07/14] 1 paper has been accepted by ICCV 2023!
-* [2023/04/07] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
+* [2024/08] Join KAUST as a PhD student!
+* [2023/07] 1 paper has been accepted by ICCV 2023!
+* [2023/04] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
 
 Research
 ======
 (* equal contribution)
+
+<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <div class="one">
+          <img src='images/Kestrel.jpg' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <a href="https://arxiv.org/abs/2405.18937">
+          <papertitle>Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding</papertitle>
+        </a>
+        <br>
+        <strong>Junjie Fei*</strong>, Mahmoud Ahmed*, Jian Ding, Eslam Mohamed Bakr, Mohamed Elhoseiny
+        <br>
+        <em>arXiv</em>, 2024
+        <br>
+        <a href="https://feielysia.github.io/Kestrel.github.io/">project</a>
+        /
+        <a href="https://arxiv.org/pdf/2405.18937">paper</a>
+        <p></p>
+        <p>
+        Kestrel is a part-aware point grounding 3D MLLM, capable of comprehending and generating language and locating the position of the object and its materials at the part level.
+        </p>
+    </td>
+  </tr>
 
 <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
 
@@ -124,6 +150,11 @@ Research
   </tr>
 
 </tbody></table>
+
+Academic Services
+======
+Conference reviewer for NeurIPS, ICLR
+Journal reviewer for IEEE TMM, Neurocomputing
 
 <!-- Getting started
 
