@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before that, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
 
-My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content. Feel free to drop me an email at junjiefei@outlook.com / junjie.fei@kaust.edu.sa if you are interested in collaborating.
+My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content. Feel free to drop me an email at [junjiefei@outlook.com](junjiefei@outlook.com) / [junjie.fei@kaust.edu.sa](junjie.fei@kaust.edu.sa) if you are interested in collaborating.
 
 News
 ======
@@ -48,8 +48,6 @@ Research
         </p>
     </td>
   </tr>
-
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
