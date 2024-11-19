@@ -158,9 +158,9 @@ Journal reviewer for IEEE TMM, Neurocomputing
 Latest Gallery
 ======
 
-<img src="images/gallery1.png" alt="Gallery" width="300">
+<img src="images/gallery1.png" alt="Gallery" width="800">
 
-<img src="images/gallery1.png" alt="Gallery" width="300">
+<img src="images/gallery2.png" alt="Gallery" width="800">
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=g9SZs5u3hwA_RMZqdhNPB716AxHRJQYXSMQDCKNg77g&cl=ffffff&w=a"></script>
 
