@@ -54,7 +54,7 @@ Research
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
-          <img src='images/WikiAutoGen.png' width="400">
+          <img src='images/WikiAutoGen.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
@@ -74,13 +74,14 @@ Research
         <p></p>
         <p>
         WikiAutoGen is a novel system for automated multimodal Wikipedia-style article generation, retrieving and integrating relevant images alongside text to enhance both the depth and visual appeal of the generated content.
+        </p>
     </td>
   </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
-          <img src='images/Dochaystack.png' width="400">
+          <img src='images/Dochaystack.jpg' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
