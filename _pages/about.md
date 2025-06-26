@@ -51,7 +51,7 @@ Research
     </td>
   </tr>
 
-  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+  <!-- <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/WikiAutoGen.png' width="400">
@@ -102,7 +102,7 @@ Research
         The Document Haystack Benchmarks aim to evaluate the performance of VLMs on large-scale visual document retrieval and understanding.
         </p>
     </td>
-  </tr>
+  </tr> -->
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
