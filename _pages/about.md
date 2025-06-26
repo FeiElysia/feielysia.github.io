@@ -51,7 +51,7 @@ Research
     </td>
   </tr>
 
-  <!-- <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/WikiAutoGen.png' width="400">
@@ -59,7 +59,7 @@ Research
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://arxiv.org/abs/2503.19065">
-          <papertitle>Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents</papertitle>
+          <papertitle>WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation</papertitle>
         </a>
         <br>
         Zhongyu Yang*, Jun Chen*, Dannong Xu, <strong>Junjie Fei</strong>, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
@@ -102,7 +102,7 @@ Research
         The Document Haystack Benchmarks aim to evaluate the performance of VLMs on large-scale visual document retrieval and understanding.
         </p>
     </td>
-  </tr> -->
+  </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
