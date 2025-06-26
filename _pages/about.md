@@ -10,10 +10,11 @@ redirect_from:
 
 I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before that, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
 
-My recent research interests are focused on vision-language multimodal learning and artificial intelligence generated content. Feel free to drop me an email at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) / [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa) if you are interested in collaborating.
+My recent research interests are focused on vision-language multimodal learning. Feel free to drop me an email at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) / [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa) if you are interested in collaborating.
 
 News
 ======
+* [2025/06] 2 papers have been accepted by ICCV 2025!
 * [2025/02] 1 paper has been accepted by CVPR 2025!
 * [2024/08] Join KAUST as a PhD student!
 * [2023/07] 1 paper has been accepted by ICCV 2023!
@@ -38,7 +39,7 @@ Research
         <br>
         <strong>Junjie Fei*</strong>, Mahmoud Ahmed*, Jian Ding, Eslam Mohamed Bakr, Mohamed Elhoseiny
         <br>
-        <em>arXiv</em>, 2024
+        <em>ICCV</em>, 2025
         <br>
         <a href="https://feielysia.github.io/Kestrel.github.io/">project</a>
         /
@@ -46,6 +47,59 @@ Research
         <p></p>
         <p>
         Kestrel is a part-aware point grounding 3D MLLM, capable of comprehending and generating language and locating the position of the object and its materials at the part level.
+        </p>
+    </td>
+  </tr>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <div class="one">
+          <img src='images/WikiAutoGen.png' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <a href="https://arxiv.org/abs/2503.19065">
+          <papertitle>Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents</papertitle>
+        </a>
+        <br>
+        Zhongyu Yang*, Jun Chen*, Dannong Xu, <strong>Junjie Fei</strong>, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
+        <br>
+        <em>ICCV</em>, 2025
+        <br>
+        <a href="https://wikiautogen.github.io/">project</a>
+        /
+        <a href="https://github.com/01yzzyu/wikiautogen">code</a>
+        /
+        <a href="https://arxiv.org/pdf/2503.19065">paper</a>
+        <p></p>
+        <p>
+        WikiAutoGen is a novel system for automated multimodal Wikipedia-style article generation, retrieving and integrating relevant images alongside text to enhance both the depth and visual appeal of the generated content.
+    </td>
+  </tr>
+
+  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <div class="one">
+          <img src='images/Dochaystack.png' width="400">
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Document_Haystacks__Vision-Language_Reasoning_Over_Piles_of_1000_Documents_CVPR_2025_paper.html">
+          <papertitle>Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents</papertitle>
+        </a>
+        <br>
+        Jun Chen*, Dannong Xu*, <strong>Junjie Fei*</strong>, Chun-Mei Feng, Mohamed Elhoseiny
+        <br>
+        <em>CVPR</em>, 2025
+        <br>
+        <a href="https://github.com/Vision-CAIR/dochaystacks">code</a>
+        /
+        <a href="https://arxiv.org/pdf/2411.16740">paper</a>
+        /
+        <a href="https://huggingface.co/datasets/DanielXu0208/Document_Haystacks">benchmark</a>
+        <p></p>
+        <p>
+        The Document Haystack Benchmarks aim to evaluate the performance of VLMs on large-scale visual document retrieval and understanding.
         </p>
     </td>
   </tr>
@@ -102,7 +156,7 @@ Research
     </td>
   </tr>
 
-  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+  <!-- <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
           <img src='images/U_Net.jpg' width="400">
@@ -146,7 +200,7 @@ Research
         ResU-Net is proposed to directly reconstruct 3-D anisotropic objects from the received electromagnetic field data.
         </p>
     </td>
-  </tr>
+  </tr> -->
 
 </tbody></table>
 
