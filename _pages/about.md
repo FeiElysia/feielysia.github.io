@@ -14,10 +14,10 @@ My recent research interests are focused on vision-language multimodal learning.
 
 News
 ======
-* [2025/06] 2 papers have been accepted by ICCV 2025!
-* [2025/02] 1 paper has been accepted by CVPR 2025!
+* [2025/06] Two papers have been accepted by ICCV 2025!
+* [2025/02] One paper has been accepted by CVPR 2025!
 * [2024/08] Join KAUST as a PhD student!
-* [2023/07] 1 paper has been accepted by ICCV 2023!
+* [2023/07] One paper has been accepted by ICCV 2023!
 * [2023/04] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
 
 Research
@@ -37,7 +37,7 @@ Research
           <papertitle>Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding</papertitle>
         </a>
         <br>
-        <strong>Junjie Fei*</strong>, Mahmoud Ahmed*, Jian Ding, Eslam Mohamed Bakr, Mohamed Elhoseiny
+        Mahmoud Ahmed*, <strong>Junjie Fei*</strong>, Jian Ding, Eslam Mohamed Bakr, Mohamed Elhoseiny
         <br>
         <em>ICCV</em>, 2025
         <br>
