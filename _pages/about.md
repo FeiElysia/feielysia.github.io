@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before that, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
+I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). I am also currently a Research Scientist Intern at Meta AI, where I contribute to advancing cutting-edge multimodal research. Before joining KAUST, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
 
 My recent research interests are focused on vision-language multimodal learning. Feel free to drop me an email at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) / [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa) if you are interested in collaborating.
 
 News
 ======
+* [2025/09] Joined Meta AI as a Research Scientist Intern!
 * [2025/06] Two papers have been accepted by ICCV 2025!
 * [2025/02] One paper has been accepted by CVPR 2025!
 * [2024/08] Join KAUST as a PhD student!
@@ -34,7 +35,7 @@ Research
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <a href="https://arxiv.org/abs/2405.18937">
-          <papertitle>Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding</papertitle>
+          <papertitle>Kestrel: 3D Multimodal LLM for Part-Aware Grounded Description</papertitle>
         </a>
         <br>
         Mahmoud Ahmed*, <strong>Junjie Fei*</strong>, Jian Ding, Eslam Mohamed Bakr, Mohamed Elhoseiny
