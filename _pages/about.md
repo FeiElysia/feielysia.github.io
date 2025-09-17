@@ -17,7 +17,7 @@ News
 * [2025/09] Joined Meta AI as a Research Scientist Intern!
 * [2025/06] Two papers have been accepted by ICCV 2025!
 * [2025/02] One paper has been accepted by CVPR 2025!
-* [2024/08] Join KAUST as a PhD student!
+* [2024/08] Joined KAUST as a PhD student!
 * [2023/07] One paper has been accepted by ICCV 2023!
 * [2023/04] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
 
