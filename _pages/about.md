@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the King Abdullah University of Science and Technology (KAUST), under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). I am also currently a Research Scientist Intern at Meta AI, where I contribute to advancing cutting-edge multimodal research. Before joining KAUST, I obtained my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained valuable research experience as a visiting student / research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). Please refer to my [CV](https://feielysia.github.io/images/CV.pdf) for more details.
+I am currently a second-year PhD student at King Abdullah University of Science and Technology (KAUST), advised by [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). I am also a Research Scientist Intern at Meta AI, hosted by [Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), where I work on advancing multimodal reasoning.
 
-My recent research interests are focused on vision-language multimodal learning. Feel free to drop me an email at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) / [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa) if you are interested in collaborating.
+Prior to KAUST, I received my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained research experience as a visiting scholar and research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). For more details, please refer to my [CV](https://feielysia.github.io/images/CV.pdf).
+
+My current research interests lie in vision-language multimodal learning. If you're interested in collaborating, feel free to contact me at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) (or [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa)).
+
+<span style="color:red;">I am actively seeking research internship opportunities for the summer of 2026.</span>
 
 News
 ======
