@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junjie Fei's Homepage"
+title: "Welcome to My Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
