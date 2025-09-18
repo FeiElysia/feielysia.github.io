@@ -14,6 +14,7 @@ My recent research interests are focused on vision-language multimodal learning.
 
 News
 ======
+* [2025/09] One paper has been accepted by NeurIPS 2025!
 * [2025/09] Joined Meta AI as a Research Scientist Intern!
 * [2025/06] Two papers have been accepted by ICCV 2025!
 * [2025/02] One paper has been accepted by CVPR 2025!
