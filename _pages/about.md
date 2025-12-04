@@ -14,7 +14,7 @@ Prior to KAUST, I received my BS and MS degrees from Chongqing University and Xi
 
 My current research interests lie in vision-language multimodal learning. If you're interested in collaborating, feel free to contact me at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) or [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa).
 
-<span style="color:red;">I am actively seeking research internship opportunities for the summer of 2026.</span>
+<!-- <span style="color:red;">I am actively seeking research internship opportunities for the summer of 2026.</span> -->
 
 News
 ======
