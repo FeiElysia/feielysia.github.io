@@ -213,7 +213,7 @@ Research
 
 Academic Services
 ======
-Conference reviewer for NeurIPS, ICLR, ICML
+Conference reviewer for NeurIPS, ICLR, ICML, CVPR
 
 Journal reviewer for IEEE TMM, Neurocomputing
 
