@@ -8,16 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at King Abdullah University of Science and Technology (KAUST), advised by [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). I am also a Research Scientist Intern at Meta AI, hosted by [Dr. Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), where I work on advancing multimodal reasoning.
+I am currently a second-year PhD student at King Abdullah University of Science and Technology (KAUST), advised by [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). My research interests lie in vision-language learning and long visual context modeling. Recently, I completed a Research Scientist Internship at Meta AI, hosted by Dr. [Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), where my work focused on long video understanding.
 
-Prior to KAUST, I received my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained research experience as a visiting scholar and research assistant at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). For more details, please refer to my [CV](https://feielysia.github.io/images/CV.pdf).
+Prior to KAUST, I received my BS and MS degrees from Chongqing University and Xiamen University, respectively. I also gained research experience as a research assistant and visiting scholar at SUSTech VIP Lab and [KAUST Vision CAIR](https://cemse.kaust.edu.sa/vision-cair). For more details, please refer to my [CV](https://feielysia.github.io/images/CV.pdf).
 
-My current research interests lie in vision-language multimodal learning. If you're interested in collaborating, feel free to contact me at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) or [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa).
+> 💡 **Open to collaboration:** I am actively seeking research internship opportunities! I am also widely open to talks, discussions, and collaborations in the multimodal learning community. Feel free to reach out to me at [junjiefei@outlook.com](mailto:junjiefei@outlook.com) or [junjie.fei@kaust.edu.sa](mailto:junjie.fei@kaust.edu.sa).
 
-<!-- <span style="color:red;">I am actively seeking research internship opportunities for the summer of 2026.</span> -->
+<style>
+  .news-wrapper {
+    max-height: 140px; 
+    overflow: hidden;
+    transition: max-height 0.6s ease; 
+    position: relative;
+    padding-bottom: 10px; 
+  }
+  
+  .news-wrapper:hover {
+    max-height: 1000px;
+  }
 
-News
-======
+  /* can be remove */
+  .news-wrapper::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background: linear-gradient(to bottom, transparent, white);
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+  }
+
+  .news-wrapper:hover::after {
+    opacity: 0;
+  }
+</style>
+
+<h2>News</h2>
+
+<div class="news-wrapper">
+
+* [2026/04] Project [*Tempo*](https://feielysia.github.io/tempo-page/) from my Meta AI internship is publicly released!
 * [2025/09] One paper has been accepted by NeurIPS 2025!
 * [2025/09] Joined Meta AI as a Research Scientist Intern!
 * [2025/06] Two papers have been accepted by ICCV 2025!
@@ -26,11 +58,52 @@ News
 * [2023/07] One paper has been accepted by ICCV 2023!
 * [2023/04] Project [*Caption Anything*](https://github.com/ttengwang/Caption-Anything) is publicly released!
 
+</div>
+
 Research
 ======
 (* equal contribution)
 
 <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+
+  <tr onmouseout="tempo_stop()" onmouseover="tempo_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <!-- <div class="one">
+          <img src='images/tempo.jpg' width="400">
+        </div> -->
+        <div class="one">
+          <!-- <video width="100%" height="auto" muted autoplay loop playsinline>
+            <source src="videos/demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video> -->
+          <video width="100%" height="auto" muted autoplay loop playsinline poster="images/tempo.jpg">
+            <source src="videos/demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
+        <a href="https://arxiv.org/abs/2604.08120">
+          <papertitle>Small Vision-Language Models are Smart Compressors for Long Video Understanding</papertitle>
+        </a>
+        <br>
+        <strong>Junjie Fei</strong>, Jun Chen, Zechun Liu, Yunyang Xiong, Chong Zhou, Wei Wen, Junlin Han, Mingchen Zhuge, Saksham Suri, Qi Qian, Shuming Liu, Lemeng Wu, Raghuraman Krishnamoorthi, Vikas Chandra, Mohamed Elhoseiny, Chenchen Zhu
+        <br>
+        <em>arXiv</em>, 2026
+        <br>
+        <a href="https://feielysia.github.io/tempo-page/">project</a>
+        /
+        <a href="https://github.com/feielysia/Tempo">code</a>
+        /
+        <a href="https://arxiv.org/pdf/2604.08120.pdf">paper</a>
+        /
+        <a href="https://huggingface.co/spaces/Vision-CAIR/Tempo">demo</a>
+        <p></p>
+        <p>
+        Tempo is a highly efficient, query-aware framework that leverages a <strong>Small Vision-Language Model (SVLM)</strong> as an intelligent temporal compressor. It adaptively distills long-form video content into semantic-rich tokens in a single forward pass, achieving SOTA performance on LVBench while significantly reducing the computational overhead of processing hour-long videos.
+        </p>
+    </td>
+  </tr>
 
   <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
@@ -163,57 +236,11 @@ Research
     </td>
   </tr>
 
-  <!-- <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
-        <div class="one">
-          <img src='images/U_Net.jpg' width="400">
-        </div>
-    </td>
-    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
-        <a href="https://ieeexplore.ieee.org/document/9896914">
-          <papertitle>Hybrid Microwave Imaging of 3-D Objects Using LSM and BIM Aided by a CNN U-Net</papertitle>
-        </a>
-        <br>
-        Feng Han, Miao Zhong, <strong>Junjie Fei</strong>
-        <br>
-        <em>IEEE Transactions on Geoscience and Remote Sensing</em> (2 Year IF: 8.125, ranking: 42/708)
-        <br>
-        <a href="https://ieeexplore.ieee.org/document/9896914">paper</a>
-        <p></p>
-        <p>
-        An efficient and accurate 3-D quantitative hybrid microwave imaging method, which incorporates 3D U-Net to further refine the reconstructed object.
-        </p>
-    </td>
-  </tr>
-
-  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
-        <div class="one">
-          <img src='images/ResU_Net.jpg' width="400">
-        </div>
-    </td>
-    <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
-        <a href="https://ieeexplore.ieee.org/document/9670652">
-          <papertitle>Fast 3-D Electromagnetic Full-Wave Inversion of Dielectric Anisotropic Objects Based on ResU-Net Enhanced by Variational Born Iterative Method</papertitle>
-        </a>
-        <br>
-        <strong>Junjie Fei</strong>, Yanjin Chen, Miao Zhong, Feng Han
-        <br>
-        <em>IEEE Transactions on Antennas and Propagation</em> (2 Year IF: 4.824, ranking: 71/708)
-        <br>
-        <a href="https://ieeexplore.ieee.org/document/9670652">paper</a>
-        <p></p>
-        <p>
-        ResU-Net is proposed to directly reconstruct 3-D anisotropic objects from the received electromagnetic field data.
-        </p>
-    </td>
-  </tr> -->
-
 </tbody></table>
 
 Academic Services
 ======
-Conference reviewer for NeurIPS, ICLR, ICML, CVPR
+Conference reviewer for NeurIPS, ICLR, ICML, CVPR, ECCV
 
 Journal reviewer for IEEE TMM, Neurocomputing
 
