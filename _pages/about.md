@@ -45,7 +45,8 @@ Prior to KAUST, I received my BS and MS degrees from Chongqing University and Xi
   }
 </style>
 
-<h2>News</h2>
+News
+======
 
 <div class="news-wrapper">
 
