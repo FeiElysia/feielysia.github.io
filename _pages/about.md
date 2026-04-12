@@ -64,40 +64,40 @@ News
 Experience
 ======
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%; border:0px; border-collapse:collapse; margin: 20px 0;"><tbody>
 
-  <tr>
-    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
-      <img src='images/meta_logo.png' width="100">
+  <tr style="border:0px;">
+    <td style="padding:15px 10px; width:15%; vertical-align:middle; text-align:center; border:0px;">
+      <img src='images/meta_logo.png' style="width: 50px; height: auto;">
     </td>
-    <td style="padding:10px;width:75%;vertical-align:middle">
-      <p style="margin:0;">
+    <td style="padding:15px 10px; width:85%; vertical-align:middle; border:0px;">
+      <p style="margin:0; font-size: 1.05em;">
         <strong>Meta AI</strong> <br>
-        Research Scientist Intern | <em>Sep. 2025 - Feb. 2026</em> <br>
+        <span style="font-size: 0.95em; color: #333;">Research Scientist Intern | <em>Sep. 2025 - Feb. 2026</em></span>
       </p>
     </td>
   </tr>
 
-  <tr>
-    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
-      <img src='images/kaust_logo.png' width="100">
+  <tr style="border:0px;">
+    <td style="padding:15px 10px; width:15%; vertical-align:middle; text-align:center; border:0px;">
+      <img src='images/kaust_logo.png' style="width: 60px; height: auto;">
     </td>
-    <td style="padding:10px;width:75%;vertical-align:middle">
-      <p style="margin:0;">
+    <td style="padding:15px 10px; width:85%; vertical-align:middle; border:0px;">
+      <p style="margin:0; font-size: 1.05em;">
         <strong>Vision CAIR Research Group, KAUST</strong> <br>
-        Visiting Scholar | <em>Jan. 2024 - May 2024</em>
+        <span style="font-size: 0.95em; color: #333;">Visiting Scholar | <em>Jan. 2024 - May 2024</em></span>
       </p>
     </td>
   </tr>
 
-  <tr>
-    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
-      <img src='images/sustech_logo.png' width="75">
+  <tr style="border:0px;">
+    <td style="padding:15px 10px; width:15%; vertical-align:middle; text-align:center; border:0px;">
+      <img src='images/sustech_logo.png' style="width: 45px; height: auto;">
     </td>
-    <td style="padding:10px;width:75%;vertical-align:middle">
-      <p style="margin:0;">
+    <td style="padding:15px 10px; width:85%; vertical-align:middle; border:0px;">
+      <p style="margin:0; font-size: 1.05em;">
         <strong>VIP (Visual Intelligence & Perception) Lab, SUSTech</strong> <br>
-        Visiting Scholar / Research Assistant | <em>Oct. 2022 - Jan. 2024</em>
+        <span style="font-size: 0.95em; color: #333;">Visiting Scholar / Research Assistant | <em>Oct. 2022 - Jan. 2024</em></span>
       </p>
     </td>
   </tr>
@@ -284,13 +284,20 @@ Research
 
 Academic Services
 ======
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
-    <div style="flex: 1; min-width: 300px;">
-        <h4 style="margin-bottom: 5px;">Conference Reviewer</h4>
-        <p style="color: #555;">NeurIPS, ICLR, ICML, CVPR, ECCV</p>
-        <h4 style="margin-bottom: 5px;">Journal Reviewer</h4>
-        <p style="color: #555;">IEEE TMM, Neurocomputing, CVIU</p>
-    </div>
+<h2 style="font-size: 1.7em; font-weight: 600; margin-bottom: 25px;">Academic Services</h2>
+
+<div style="margin-left: 10px; margin-bottom: 20px;">
+  <h4 style="font-size: 1.1em; font-weight: 500; color: #333; margin-bottom: 5px;">Conference Reviewer</h4>
+  <p style="font-size: 0.95em; color: #555; margin: 0; padding-left: 15px; line-height: 1.5;">
+    CVPR, ECCV, NeurIPS, ICML, ICLR
+  </p>
+</div>
+
+<div style="margin-left: 10px;">
+  <h4 style="font-size: 1.1em; font-weight: 500; color: #333; margin-bottom: 5px;">Journal Reviewer</h4>
+  <p style="font-size: 0.95em; color: #555; margin: 0; padding-left: 15px; line-height: 1.5;">
+    IEEE TMM, Neurocomputing, CVIU
+  </p>
 </div>
 
 <div style="max-width: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
