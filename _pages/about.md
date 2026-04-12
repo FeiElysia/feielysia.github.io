@@ -61,6 +61,49 @@ News
 
 </div>
 
+Experience
+======
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr>
+    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
+      <img src='images/meta_logo.png' width="100">
+    </td>
+    <td style="padding:10px;width:75%;vertical-align:middle">
+      <p style="margin:0;">
+        <strong>Meta AI</strong> <br>
+        Research Scientist Intern | <em>Sep. 2025 - Feb. 2026</em> <br>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
+      <img src='images/kaust_logo.png' width="100">
+    </td>
+    <td style="padding:10px;width:75%;vertical-align:middle">
+      <p style="margin:0;">
+        <strong>Vision CAIR Research Group, KAUST</strong> <br>
+        Visiting Scholar | <em>Jan. 2024 - May 2024</em>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;width:25%;vertical-align:middle;text-align:center">
+      <img src='images/sustech_logo.png' width="75">
+    </td>
+    <td style="padding:10px;width:75%;vertical-align:middle">
+      <p style="margin:0;">
+        <strong>VIP (Visual Intelligence & Perception) Lab, SUSTech</strong> <br>
+        Visiting Scholar / Research Assistant | <em>Oct. 2022 - Jan. 2024</em>
+      </p>
+    </td>
+  </tr>
+
+</tbody></table>
+
 Research
 ======
 (* equal contribution)
@@ -241,18 +284,18 @@ Research
 
 Academic Services
 ======
-Conference reviewer for NeurIPS, ICLR, ICML, CVPR, ECCV
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
+    <div style="flex: 1; min-width: 300px;">
+        <h4 style="margin-bottom: 5px;">Conference Reviewer</h4>
+        <p style="color: #555;">NeurIPS, ICLR, ICML, CVPR, ECCV</p>
+        <h4 style="margin-bottom: 5px;">Journal Reviewer</h4>
+        <p style="color: #555;">IEEE TMM, Neurocomputing, CVIU</p>
+    </div>
+</div>
 
-Journal reviewer for IEEE TMM, Neurocomputing
-
-<!-- Latest Gallery
-======
-
-<img src="images/gallery1.png" alt="Gallery" width="800">
-
-<img src="images/gallery2.png" alt="Gallery" width="800"> -->
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=g9SZs5u3hwA_RMZqdhNPB716AxHRJQYXSMQDCKNg77g&cl=ffffff&w=a"></script>
+<div style="max-width: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=g9SZs5u3hwA_RMZqdhNPB716AxHRJQYXSMQDCKNg77g&cl=ffffff&w=a"></script>
+</div>
 
 <!-- Getting started
 
