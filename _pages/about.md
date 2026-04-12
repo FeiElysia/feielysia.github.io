@@ -253,10 +253,10 @@ Research
     </td>
   </tr>
 
-  <tr onmouseout="iadsurvey_stop()" onmouseover="iadsurvey_start()">
+  <tr>
     <td style="padding:20px;width:25%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
         <div class="one">
-          <img src='images/CAT.jpg' width="400">
+          <img src='images/CAT.gif' width="400">
         </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border:0px;border-spacing:0px;border-collapse:separate">
