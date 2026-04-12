@@ -80,7 +80,7 @@ Experience
 
   <tr style="border:0px;">
     <td style="padding:10px; width:10%; vertical-align:middle; text-align:center; border:0px;">
-      <img src='images/kaust_logo.png' style="width: 40px; height: auto;">
+      <img src='images/kaust_logo.png' style="width: 32px; height: auto;">
     </td>
     <td style="padding:10px; width:90%; vertical-align:middle; border:0px;">
       <p style="margin:0; font-size: 1.05em;">
