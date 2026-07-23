@@ -50,6 +50,7 @@ News
 
 <div class="news-wrapper" markdown="1">
 
+* [2026/06] [*Tempo*](https://feielysia.github.io/tempo-page/) has been accepted to ECCV 2026! 🎉
 * [2026/04] Project [*Tempo*](https://feielysia.github.io/tempo-page/) from my Meta AI internship is publicly released!
 * [2025/09] One paper has been accepted by NeurIPS 2025!
 * [2025/09] Joined Meta AI as a Research Scientist Intern!
