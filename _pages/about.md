@@ -134,7 +134,7 @@ Research
         <br>
         <strong>Junjie Fei</strong>, Jun Chen, Zechun Liu, Yunyang Xiong, Chong Zhou, Wei Wen, Junlin Han, Mingchen Zhuge, Saksham Suri, Qi Qian, Shuming Liu, Lemeng Wu, Raghuraman Krishnamoorthi, Vikas Chandra, Mohamed Elhoseiny, Chenchen Zhu
         <br>
-        <em>arXiv</em>, 2026
+        <em>ECCV</em>, 2026
         <br>
         <a href="https://feielysia.github.io/tempo-page/">project</a>
         /
